@@ -1,0 +1,34 @@
+.section {
+    height: 100vh;
+    width: 50vw;
+    background-color: rgb(190, 190, 190);
+}
+
+.botao {
+    border-radius: 50%;
+    background: red;
+    color: white;
+    padding: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 64px;
+    margin: 10px;
+}
+
+.botao2 {
+    border-radius: 50%;
+    background: rgb(25, 0, 255);
+    color: white;
+    padding: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 64px;
+    margin: 10px;
+}
+
+
+.botao:active {
+    background: rgb(133, 24, 24);
+}
+
+.doidera {
+    font-size: 128px;
+}
